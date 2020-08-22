@@ -1,6 +1,6 @@
 {
-"name": "BrandNewPool",
-"description": "Ovh hosted pool 24/7 up and running",
-"ticker": "SNAK3",
-"homepage": ""
+    "name": "BrandNewPool",
+    "description": "Ovh hosted pool 24/7 up and running",
+    "ticker": "SNAK3",
+    "homepage": "https://github.com/yoannGV/Caradano-OVH1"
 }
