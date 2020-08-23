@@ -1,6 +1,6 @@
 {
-"name": "BrandNewPool",
-"description": "Ovh hosted pool",
-"ticker": "BnP3",
-"homepage": ""
+  "name": "BrandNewPool",
+  "ticker": "SNAK3",
+  "description": "Ovh hosted pool",
+  "homepage": ""
 }
