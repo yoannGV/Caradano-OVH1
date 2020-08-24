@@ -1,1 +1,5 @@
-{"name": "BrandNewPool","ticker": "SNAK3","description": "Ovh hosted StakingPool","homepage": ""}
+{
+  "name": "BrandNewPool",
+  "ticker": "BraNP",
+  "description": "Ovh hosted StakingPool",
+  "homepage": ""}
